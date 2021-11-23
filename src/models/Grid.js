@@ -114,6 +114,8 @@ module.exports = class Grid {
       }
       
     }
+
+    return this.grid;
   }
 
   printGrid() {
